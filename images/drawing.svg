@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="205mm"
-   height="59mm"
-   viewBox="0 0 205 59"
+   height="61mm"
+   viewBox="0 0 205 61"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1729616"
-     inkscape:cx="418.57596"
-     inkscape:cy="30.4073"
+     inkscape:zoom="1.5365159"
+     inkscape:cx="381.58618"
+     inkscape:cy="71.672135"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,7 +58,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-238)">
+     transform="translate(0,-236)">
     <circle
        style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35545203;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path815"
@@ -346,7 +346,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.62104082px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16863123"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16863123"
        x="54.251831"
        y="242.7392"
        id="text892-2"><tspan
@@ -354,7 +354,7 @@
          id="tspan890-6"
          x="54.251831"
          y="242.7392"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.37262511px;font-family:cmmi10;-inkscape-font-specification:cmmi10;stroke-width:0.16863123">R</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:cmmi10;-inkscape-font-specification:cmmi10;stroke-width:0.16863123">R</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.39491925;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 0.61359653,244.27798 H 203.34192"
@@ -369,11 +369,11 @@
          sodipodi:role="line"
          x="0.82684654"
          y="242.71024"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.37262511px;line-height:0;font-family:cmr10;-inkscape-font-specification:cmr10;letter-spacing:0px;direction:ltr;stroke-width:0.16863123"
-         id="tspan5050">Hand of trowing passes:</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:0;font-family:cmr10;-inkscape-font-specification:cmr10;letter-spacing:0px;direction:ltr;stroke-width:0.16863123"
+         id="tspan5050">Hand of thrown passes:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.62104082px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16863123"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16863123"
        x="175.19246"
        y="242.86101"
        id="text892-2-8"><tspan
@@ -381,21 +381,21 @@
          id="tspan890-6-9"
          x="175.19246"
          y="242.86101"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.37262535px;font-family:cmmi10;-inkscape-font-specification:cmmi10;stroke-width:0.16863123">R</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:cmmi10;-inkscape-font-specification:cmmi10;stroke-width:0.16863123">R</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.62104082px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16863123"
-       x="117.155"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16863123"
+       x="113.98"
        y="242.79298"
        id="text892-2-2"><tspan
          sodipodi:role="line"
          id="tspan890-6-8"
-         x="117.155"
+         x="113.98"
          y="242.79298"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.37262535px;font-family:cmmi10;-inkscape-font-specification:cmmi10;stroke-width:0.16863123">L</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:cmmi10;-inkscape-font-specification:cmmi10;stroke-width:0.16863123">L</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.39491925;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 0.61359753,239.30835 H 203.34192"
+       d="M 0.61359753,237.72084 H 203.34192"
        id="path5018-8"
        inkscape:connector-curvature="0" />
     <path
