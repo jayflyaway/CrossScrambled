@@ -1,2 +1,2 @@
 # CrossScrambled
-[-> see website](https://jayflyaway.github.io/CrossedV/)
+[-> see website](https://jjmatthiesen.github.io/CrossedV/)
